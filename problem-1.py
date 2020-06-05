@@ -116,5 +116,6 @@ def main():
     print('Input: ', test_case_6)
     print('Output: ', output_6)
 
+
 if __name__ == '__main__':
     main()
